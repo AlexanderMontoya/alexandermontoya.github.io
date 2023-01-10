@@ -18,3 +18,9 @@ h1{
     color: white;
     font-size: 30px;
 }
+
+.cont_div{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
